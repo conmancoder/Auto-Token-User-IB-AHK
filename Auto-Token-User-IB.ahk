@@ -37,7 +37,7 @@ sleep 5
 Click
 sleep 950
 MouseMove, 1786, 115
-sleep 5
+sleep 15
 Click
 sleep 1000
 return
